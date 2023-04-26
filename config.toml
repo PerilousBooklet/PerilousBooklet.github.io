@@ -1,0 +1,7 @@
+baseURL = 'https://raffaeleorabona.it/'
+
+languageCode = 'en-us'
+
+title = 'My personal website'
+
+theme = 'loveit'
